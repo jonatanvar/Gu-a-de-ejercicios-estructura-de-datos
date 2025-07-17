@@ -16,6 +16,8 @@ Este repositorio contiene los ejercicios desarrollados en el curso de Programaci
 - Erinkson
 - Cristina
 - Belinda
+- Jorge Mendoza
+  
 
 ## Tecnología usada
 
