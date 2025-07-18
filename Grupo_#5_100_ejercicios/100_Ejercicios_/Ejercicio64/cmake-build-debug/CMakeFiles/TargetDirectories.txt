@@ -1,0 +1,3 @@
+C:/Users/klain/CLionProjects/Ejercicio64/cmake-build-debug/CMakeFiles/Ejercicio64.dir
+C:/Users/klain/CLionProjects/Ejercicio64/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/klain/CLionProjects/Ejercicio64/cmake-build-debug/CMakeFiles/rebuild_cache.dir
