@@ -12,7 +12,7 @@ Este repositorio contiene los ejercicios desarrollados en el curso de Programaci
 ## Integrantes del grupo
 
 - Jonatan Varela
-- Kevin
+- Kevin Lainez
 - Erinkson
 - Cristina
 - Belinda
