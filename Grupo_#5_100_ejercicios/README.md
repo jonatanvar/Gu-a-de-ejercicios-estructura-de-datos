@@ -30,10 +30,5 @@ Este repositorio contiene los ejercicios desarrollados en el curso de Programaci
 Cada ejercicio tiene su propia carpeta dentro de `ejercicios/`. Dentro de cada carpeta encontrarás:
 - `main.cpp`: Código principal del ejercicio.
 - `funciones.h`: Declaraciones de funciones (si aplica).
-- `README.md`: Descripción del ejercicio y detalles de implementación.
 
-## Contacto
 
-Si tienes preguntas o comentarios, contacta al administrador del repositorio.
-
----
