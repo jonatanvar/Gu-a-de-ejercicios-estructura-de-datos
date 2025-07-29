@@ -1,3 +1,5 @@
+//Nombre: Jonatan Varela
+//Fecha: 19/06/2025
 #include <iostream>
 #include "cabecera.h"
 using namespace std;
