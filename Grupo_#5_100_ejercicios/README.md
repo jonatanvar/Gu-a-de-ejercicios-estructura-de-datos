@@ -1,4 +1,4 @@
-# Guía de Ejercicios - Grupo #5
+# Guía de Ejercicios - Grupo #4
 
 
 Este repositorio contiene los ejercicios desarrollados en el curso de Programación Estructurada.
